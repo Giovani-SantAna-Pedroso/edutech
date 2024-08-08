@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.title-1 {
+	@apply text-[34px] font-medium text-primary md:text-[46px];
+}
+
+.title-2 {
+	@apply text-[34px] font-medium text-primary md:text-[40px];
+}
